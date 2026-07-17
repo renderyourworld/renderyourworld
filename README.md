@@ -1,10 +1,8 @@
-<h1 align="center">Hi, I'm Nick Pfeiffer</h1>
+### Hi, I'm Nick Pfeiffer
 
-<p align="center">
 Backend engineer &amp; previous game industry pipeline programmer, building geospatial data systems.
-</p>
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/nicholaspfeiffer">LinkedIn</a> ·
 <a href="mailto:renderyourworld@gmail.com">Email</a>
 </p>
