@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nick Pfeiffer</h1>
 
-<!--
-**renderyourworld/renderyourworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Backend engineer &amp; previous game industry pipeline programmer, building geospatial data systems.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://linkedin.com/in/nicholaspfeiffer">LinkedIn</a> ·
+<a href="mailto:renderyourworld@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I spent 2015–2024 building tools and pipelines in the game and VFX industries — most recently as a **Tools Programmer at Hi-Rez Studios**, where I worked on cross-platform build systems, shader pre-caching, automated QA, and cloud cost optimization. Before that, I built simulation tooling and rigid body/fluid sims for film and theme park work at **ScanlineVFX** and **Falcons Creative Group**.
+
+I'm now transitioning into backend engineering and building real systems along the way.
+
+### 🔭 Currently Building
+
+**Geospatial Property Intelligence Platform**
+A full-stack platform aggregating **4.75 million property parcels** across all 159 Georgia counties — polygons, addresses, acreage, ownership, tax districts, and classifications.
+
+- Reverse-owner search to surface institutional and out-of-state ownership patterns statewide
+- 10-year historical tax data pipeline (fair market value, assessed value, millage rates) for Forsyth County, built for county-by-county expansion
+- Go/PostGIS backend serving vector tile APIs
+- MapLibre GL JS frontend with real-time search, dynamic styling, and mobile geolocation
+
+**Stack:** Go · PostgreSQL/PostGIS · MapLibre · Docker
+
+### 🛠️ Background & Skills
+
+- **Backend:** Go, PostgreSQL/PostGIS, API design, Docker
+- **Game Dev / Pipeline:** Unreal Engine, build systems, CI/CD (TeamCity), Azure, Python, C++
+- **VFX / Simulation:** Houdini, proprietary fluid solvers, rigid body & fluid sims
+
+---
+
+<p align="center"><i>Open to backend engineering opportunities.</i></p>
