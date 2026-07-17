@@ -1,9 +1,10 @@
 ### Hi, I'm Nick Pfeiffer
 
-Backend engineer &amp; previous game industry pipeline programmer, building geospatial data systems.
+Backend engineer &amp; previous game industry pipeline programmer.
+Now building geospatial data systems and working through Boot.dev's backend developer courses.
 
 <p align="left">
-<a href="https://linkedin.com/in/nicholaspfeiffer">LinkedIn</a> ·
+<a href="https://linkedin.com/in/nicholaspfeiffer">LinkedIn</a><br>
 <a href="mailto:renderyourworld@gmail.com">Email</a>
 </p>
 
